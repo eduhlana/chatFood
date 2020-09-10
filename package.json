@@ -1,0 +1,22 @@
+{
+  "name": "chatfood",
+  "version": "1.0.0",
+  "description": "ChatFoodChallenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduhlana/chatFood.git"
+  },
+  "author": "Eduardo Lana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduhlana/chatFood/issues"
+  },
+  "homepage": "https://github.com/eduhlana/chatFood#readme",
+  "dependencies": {
+    "cypress": "^5.1.0"
+  }
+}
